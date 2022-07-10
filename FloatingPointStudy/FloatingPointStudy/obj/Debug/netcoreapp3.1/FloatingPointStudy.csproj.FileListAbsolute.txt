@@ -1,0 +1,14 @@
+D:\Projects\FloatingPointStudy\FloatingPointStudy\bin\Debug\netcoreapp3.1\FloatingPointStudy.exe
+D:\Projects\FloatingPointStudy\FloatingPointStudy\bin\Debug\netcoreapp3.1\FloatingPointStudy.deps.json
+D:\Projects\FloatingPointStudy\FloatingPointStudy\bin\Debug\netcoreapp3.1\FloatingPointStudy.runtimeconfig.json
+D:\Projects\FloatingPointStudy\FloatingPointStudy\bin\Debug\netcoreapp3.1\FloatingPointStudy.runtimeconfig.dev.json
+D:\Projects\FloatingPointStudy\FloatingPointStudy\bin\Debug\netcoreapp3.1\FloatingPointStudy.dll
+D:\Projects\FloatingPointStudy\FloatingPointStudy\bin\Debug\netcoreapp3.1\FloatingPointStudy.pdb
+D:\Projects\FloatingPointStudy\FloatingPointStudy\obj\Debug\netcoreapp3.1\FloatingPointStudy.csproj.AssemblyReference.cache
+D:\Projects\FloatingPointStudy\FloatingPointStudy\obj\Debug\netcoreapp3.1\FloatingPointStudy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FloatingPointStudy\FloatingPointStudy\obj\Debug\netcoreapp3.1\FloatingPointStudy.AssemblyInfoInputs.cache
+D:\Projects\FloatingPointStudy\FloatingPointStudy\obj\Debug\netcoreapp3.1\FloatingPointStudy.AssemblyInfo.cs
+D:\Projects\FloatingPointStudy\FloatingPointStudy\obj\Debug\netcoreapp3.1\FloatingPointStudy.csproj.CoreCompileInputs.cache
+D:\Projects\FloatingPointStudy\FloatingPointStudy\obj\Debug\netcoreapp3.1\FloatingPointStudy.dll
+D:\Projects\FloatingPointStudy\FloatingPointStudy\obj\Debug\netcoreapp3.1\FloatingPointStudy.pdb
+D:\Projects\FloatingPointStudy\FloatingPointStudy\obj\Debug\netcoreapp3.1\FloatingPointStudy.genruntimeconfig.cache
