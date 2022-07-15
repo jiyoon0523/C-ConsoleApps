@@ -30,21 +30,18 @@ namespace FloatingPointStudy
             return result;
         }
 
-        static private List<float> floatList = new List<float>() { (float)Math.PI, 0.5f, 0.1234f, 0.3f, 0.01f, 2f, 3f };
-        static private List<double> doubleList = new List<double>() { Math.PI, 0.5d, 0.1234d, 0.3d, 0.01d, 2d, 3d };
+        static private List<double> doubleList = new List<double>() { 0.5d, 3d, Math.PI, 0.1234d, 0.3d, 0.01d };
 
         static void Main(string[] args)
         {
             Console.WriteLine("Hello floating point!");
-
-            foreach (var floatValue in floatList)
-            {
-                Console.WriteLine($"AddMilF({floatValue}) is {AddMilF(floatValue)}");
-            }
+            Console.WriteLine("");
 
             foreach (var doubleValue in doubleList)
             {
+                Console.WriteLine($"AddMilF({(float)doubleValue}) is {AddMilF((float)doubleValue)}");
                 Console.WriteLine($"AddMilD({doubleValue}) is {AddMilD(doubleValue)}");
+                Console.WriteLine("");
             }
         }
     }
